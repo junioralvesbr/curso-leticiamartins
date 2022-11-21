@@ -1,0 +1,21 @@
+
+.slide{width: 100%;padding: 4em;}
+.slide img{width: 100%;}
+.slide-item{margin-right:1em}
+
+.slick-prev,.slick-next{
+    color: #000;
+    -webkit-transform: translate(0, 0%);
+    -ms-transform: translate(0, 0%);
+    transform: translate(0%, 0%);
+}
+.slick-prev:before,
+.slick-next:before
+{
+    font-family: 'slick';
+    font-size:40px;
+    line-height: 0;
+
+    opacity: .75;
+    color: #000;
+}

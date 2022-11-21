@@ -1,0 +1,6 @@
+
+h1{font-size: clamp(1.8rem, 2.5vw, 2.8rem)}
+h2{font-size: clamp(1.5rem, 2vw, 2.5rem)}
+h3{font-size:clamp(1.3rem, 1.2vw +1rem, 1.5rem);}
+/* h4{font-size:clamp( 1rem, 1.1vw + 1rem, 1.2rem)} */
+p, h4, ul li, a{font-size: 18px;}
