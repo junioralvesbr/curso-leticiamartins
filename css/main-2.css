@@ -968,6 +968,10 @@ footer p a {
     font-size: 1em;
   }
 
+  .p10-text>p {
+    text-transform: uppercase;
+  }
+
   .p10 h3 {
     line-height: .8em;
     text-align: center;
