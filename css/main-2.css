@@ -403,7 +403,7 @@ h5 {
   width: 30%;
 }
 
-.p4 h5 {
+.p4 p {
   width: 100%;
 }
 
@@ -416,6 +416,10 @@ h5 {
 
 .item-p4-text {
   margin-left: 3em;
+}
+
+.item-p4-text>.text {
+  font-style: normal;
 }
 
 .bonusPage {
