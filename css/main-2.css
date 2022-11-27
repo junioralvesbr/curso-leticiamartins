@@ -654,7 +654,14 @@ footer p a {
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+}
+
+.f-i>.social-link {
+  width: 30px;
+  margin-left: 10px;
+
 }
 
 .desktop-none {
