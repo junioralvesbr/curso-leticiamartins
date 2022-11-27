@@ -630,7 +630,6 @@ footer {
 
 footer p {
   font-size: 1rem;
-  padding: 1em 0;
   margin: 0 0em 0 1em;
 }
 
@@ -649,16 +648,22 @@ footer p a {
 }
 
 .f-i {
+  padding-top: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  flex-direction: column;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: center;
   align-items: center;
 }
 
-.f-i>.social-link {
+.f-i>.social-wrapper {
+  display: flex;
+}
+
+.f-i>.social-wrapper .social-link {
   width: 30px;
   margin-left: 10px;
 
