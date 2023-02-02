@@ -1,6 +1,6 @@
 # Curso da Leticia Martins
 
-### 🚀 [curso.leticiamartins.com.br](curso.leticiamartins.com.br)
+### 🚀 [https://curso.leticiamartins.com.br/](https://curso.leticiamartins.com.br/)
 
 
 ### 📋 Descrição:
