@@ -83,13 +83,15 @@ h5 {
 .button {
   text-decoration: none;
   padding: 1em 2em;
-  background: #66101c;
+  /* background: #66101c; */
+  background: #04d361;
   margin: 1em 0;
   color: #fff;
   display: inline-block;
   text-transform: uppercase;
   border-radius: .5em;
   font-size: 1.4em;
+  font-weight: bold;
   cursor: pointer;
 }
 
@@ -520,6 +522,10 @@ h5 {
 
 .p9 {
   background-color: #66101c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .p9-box {
